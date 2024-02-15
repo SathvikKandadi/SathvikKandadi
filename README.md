@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SathvikKandadi
-- 👀 I’m interested in Competitive Programming ,Web Develpoment and Machine Learning.
+- 👀 I’m interested in Web Develpoment and Machine Learning.
 - 🌱 I’m currently learning Datastructures & Algorithms
 - 💞️ I’m looking to collaborate on anything where there is a scope of learning new things i am just a beginner
 - 📫 How to reach me :- sathvikkandadi@gmail.com
